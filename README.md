@@ -6,7 +6,8 @@
 
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-pimenta-0663671b1/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lucaspimenta21@gmail.com)
-[![PicPay](https://img.shields.io/badge/picpay-21C25E?style=for-the-badge&logo=picpay&logoColor=white)](https://app.picpay.com/user/lucaspimenta21/)<br>
+[![Lattes](https://img.shields.io/badge/Lattes-CNPq-1677B1?style=for-the-badge)](https://lattes.cnpq.br/)
+[![ORCID](https://img.shields.io/badge/ORCID-A6CE39?style=for-the-badge&logo=orcid&logoColor=white)](https://orcid.org/)<br>
 ![Profile Views](https://komarev.com/ghpvc/?username=jinkogule&style=for-the-badge&color=orange)
 </div>
 
@@ -26,8 +27,6 @@
         <li>🌐 Professional experience in systems analysis and web development</li>
         <br>
         <li>💡 Currently improving my Java and Node.js (JavaScript) skills through my professional work</li>
-        <br>
-        <li>💻 Programming since 2018</li>
       </ul>
     </td>
     <td>
@@ -168,7 +167,7 @@
           <th>Netlify</th>
         </tr>
         <tr>
-          <td align="center"><img src="https://cdn.simpleicons.org/heroku/430098" height="40" alt="Heroku logo" /></td>
+          <td align="center"><img src="https://skillicons.dev/icons?i=heroku" height="40" alt="Heroku logo" /></td>
           <td align="center"><img src="https://cdn.simpleicons.org/netlify/00C7B7" height="40" alt="Netlify logo" /></td>
         </tr>
       </table>
