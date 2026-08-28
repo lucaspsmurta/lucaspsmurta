@@ -48,9 +48,9 @@
     <th>JavaScript / Node.js</th>
   </tr>
   <tr>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="Java logo" /></td>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python logo" /></td>
-    <td align="center"><img src="https://cdn.simpleicons.org/nodedotjs/339933" height="40" alt="Node.js logo" /></td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40" style="object-fit: contain;" alt="Java logo" /></td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40" style="object-fit: contain;" alt="Python logo" /></td>
+    <td align="center"><img src="https://cdn.simpleicons.org/nodedotjs/339933" width="40" height="40" style="object-fit: contain;" alt="Node.js logo" /></td>
   </tr>
 </table>
 
@@ -67,11 +67,11 @@
     <th>TypeScript</th>
   </tr>
   <tr>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="PHP logo" /></td>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original.svg" height="40" alt="Ruby logo" /></td>
-    <td align="center"><img src="https://cdn.simpleicons.org/go/00ADD8" height="40" alt="Go logo" /></td>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="C++ logo" /></td>
-    <td align="center"><img src="https://cdn.simpleicons.org/typescript/3178C6" height="40" alt="typescript logo"/></td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="40" height="40" style="object-fit: contain;" alt="PHP logo" /></td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original.svg" width="40" height="40" style="object-fit: contain;" alt="Ruby logo" /></td>
+    <td align="center"><img src="https://cdn.simpleicons.org/go/00ADD8" width="40" height="40" style="object-fit: contain;" alt="Go logo" /></td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40" height="40" style="object-fit: contain;" alt="C++ logo" /></td>
+    <td align="center"><img src="https://cdn.simpleicons.org/typescript/3178C6" width="40" height="40" style="object-fit: contain;" alt="typescript logo"/></td>
   </tr>
 </table>
 
@@ -93,11 +93,11 @@
           <th>Flask</th>
         </tr>
         <tr>
-          <td align="center"><img src="https://cdn.simpleicons.org/laravel/FF2D20" height="40" alt="Laravel logo" /></td>
-          <td align="center"><img src="https://skillicons.dev/icons?i=django" height="40" alt="Django logo" /></td>
-          <td align="center"><img src="https://cdn.simpleicons.org/spring/6DB33F" height="40" alt="Spring logo" /></td>
-          <td align="center"><img src="https://cdn.simpleicons.org/rubyonrails/CC0000" height="40" alt="Rails logo" /></td>
-          <td align="center"><img src="https://skillicons.dev/icons?i=flask" height="40" alt="Flask logo" /></td>
+          <td align="center"><img src="https://cdn.simpleicons.org/laravel/FF2D20" width="40" height="40" style="object-fit: contain;" alt="Laravel logo" /></td>
+          <td align="center"><img src="https://skillicons.dev/icons?i=django" width="40" height="40" style="object-fit: contain;" alt="Django logo" /></td>
+          <td align="center"><img src="https://cdn.simpleicons.org/spring/6DB33F" width="40" height="40" style="object-fit: contain;" alt="Spring logo" /></td>
+          <td align="center"><img src="https://cdn.simpleicons.org/rubyonrails/CC0000" width="40" height="40" style="object-fit: contain;" alt="Rails logo" /></td>
+          <td align="center"><img src="https://skillicons.dev/icons?i=flask" width="40" height="40" style="object-fit: contain;" alt="Flask logo" /></td>
         </tr>
       </table>
     </td>
@@ -110,10 +110,10 @@
           <th>jQuery</th>
         </tr>
         <tr>
-          <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="40" alt="AngularJS logo" /></td>
-          <td align="center"><img src="https://cdn.simpleicons.org/ionic/3880FF" height="40" alt="Ionic logo" /></td>
-          <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="Bootstrap logo" /></td>
-          <td align="center"><img src="https://cdn.simpleicons.org/jquery/0769AD" height="40" alt="jQuery logo" /></td>
+          <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" width="40" height="40" style="object-fit: contain;" alt="AngularJS logo" /></td>
+          <td align="center"><img src="https://cdn.simpleicons.org/ionic/3880FF" width="40" height="40" style="object-fit: contain;" alt="Ionic logo" /></td>
+          <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="40" height="40" style="object-fit: contain;" alt="Bootstrap logo" /></td>
+          <td align="center"><img src="https://cdn.simpleicons.org/jquery/0769AD" width="40" height="40" style="object-fit: contain;" alt="jQuery logo" /></td>
         </tr>
       </table>
     </td>
@@ -136,8 +136,8 @@
           <th>PostgreSQL</th>
         </tr>
         <tr>
-          <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="MySQL logo" /></td>
-          <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="PostgreSQL logo" /></td>
+          <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40" style="object-fit: contain;" alt="MySQL logo" /></td>
+          <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" height="40" style="object-fit: contain;" alt="PostgreSQL logo" /></td>
         </tr>
       </table>
     </td>
@@ -148,8 +148,8 @@
           <th>CSS</th>
         </tr>
         <tr>
-          <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML logo" /></td>
-          <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS logo" /></td>
+          <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40" style="object-fit: contain;" alt="HTML logo" /></td>
+          <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40" style="object-fit: contain;" alt="CSS logo" /></td>
         </tr>
       </table>
     </td>
@@ -160,8 +160,8 @@
           <th>Netlify</th>
         </tr>
         <tr>
-          <td align="center"><img src="https://skillicons.dev/icons?i=heroku" height="40" alt="Heroku logo" /></td>
-          <td align="center"><img src="https://cdn.simpleicons.org/netlify/00C7B7" height="40" alt="Netlify logo" /></td>
+          <td align="center"><img src="https://skillicons.dev/icons?i=heroku" width="40" height="40" style="object-fit: contain;" alt="Heroku logo" /></td>
+          <td align="center"><img src="https://cdn.simpleicons.org/netlify/00C7B7" width="40" height="40" style="object-fit: contain;" alt="Netlify logo" /></td>
         </tr>
       </table>
     </td>
@@ -178,10 +178,10 @@
     <th>Composer</th>
   </tr>
   <tr>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git logo" /></td>
-    <td align="center"><img src="https://cdn.simpleicons.org/postman/FF6C37" height="40" alt="Postman logo" /></td>
-    <td align="center"><img src="https://cdn.simpleicons.org/docker/2496ED" height="40" alt="Docker logo" /></td>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/composer/composer-original.svg" height="40" alt="Composer logo" /></td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40" style="object-fit: contain;" alt="Git logo" /></td>
+    <td align="center"><img src="https://cdn.simpleicons.org/postman/FF6C37" width="40" height="40" style="object-fit: contain;" alt="Postman logo" /></td>
+    <td align="center"><img src="https://cdn.simpleicons.org/docker/2496ED" width="40" height="40" style="object-fit: contain;" alt="Docker logo" /></td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/composer/composer-original.svg" width="40" height="40" style="object-fit: contain;" alt="Composer logo" /></td>
   </tr>
 </table>
 
@@ -195,9 +195,9 @@
     <th>Jupyter</th>
   </tr>
   <tr>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="40" alt="NumPy logo" /></td>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40" alt="Pandas logo" /></td>
-    <td align="center"><img src="https://cdn.simpleicons.org/selenium/43B02A" height="40" alt="Selenium logo" /></td>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="40" alt="Jupyter logo" /></td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="40" height="40" style="object-fit: contain;" alt="NumPy logo" /></td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="40" height="40" style="object-fit: contain;" alt="Pandas logo" /></td>
+    <td align="center"><img src="https://cdn.simpleicons.org/selenium/43B02A" width="40" height="40" style="object-fit: contain;" alt="Selenium logo" /></td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="40" height="40" style="object-fit: contain;" alt="Jupyter logo" /></td>
   </tr>
 </table>
