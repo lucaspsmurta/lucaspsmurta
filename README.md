@@ -6,8 +6,8 @@
 
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-pimenta-0663671b1/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lucaspimenta21@gmail.com)
-[![Lattes](https://img.shields.io/badge/Lattes-CNPq-1677B1?style=for-the-badge)](https://lattes.cnpq.br/)
-[![ORCID](https://img.shields.io/badge/ORCID-A6CE39?style=for-the-badge&logo=orcid&logoColor=white)](https://orcid.org/)<br>
+[![Lattes](https://img.shields.io/badge/Lattes-CNPq-1677B1?style=for-the-badge)](http://lattes.cnpq.br/8247049725464006)
+[![ORCID](https://img.shields.io/badge/ORCID-A6CE39?style=for-the-badge&logo=orcid&logoColor=white)](https://orcid.org/0009-0003-0799-532X)<br>
 ![Profile Views](https://komarev.com/ghpvc/?username=jinkogule&style=for-the-badge&color=orange)
 </div>
 
@@ -34,13 +34,6 @@
     </td>
   </tr>
 </table>
-
----
-
-<div align="center">
-    <img height="200em" src="https://github-readme-stats.vercel.app/api?username=Jinkogule&show_icons=true&theme=gotham"/>     
-    <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs?username=Jinkogule&layout=compact&langs_count=8&card_width=320&theme=gotham" />
-</div>
 
 ---
 
