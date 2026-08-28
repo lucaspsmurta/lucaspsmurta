@@ -1,7 +1,7 @@
 
 
 <div align="center">
-<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/d48893bd-0757-481c-8d7e-ba3e163feae7" width="100%;" alt="Banner"/>
+<img src="./figures/banner.jpg" width="100%" alt="Banner"/>
 <br>
 
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-pimenta-0663671b1/)
