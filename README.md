@@ -21,9 +21,11 @@
         <br>
         <li>📚 Currently pursuing a Master's degree in Computer Science</li>
         <br>
-        <li>🌐 Professional experience in web development</li>
+        <li>💼 Currently working on assignment at BTG Pactual</li>
         <br>
-        <li>💡 Enhancing front-end skills with Angular/Ionic</li>
+        <li>🌐 Professional experience in systems analysis and web development</li>
+        <br>
+        <li>💡 Currently improving my Java and Node.js (JavaScript) skills through my professional work</li>
         <br>
         <li>💻 Programming since 2018</li>
       </ul>
@@ -39,39 +41,49 @@
 <div align="center">
     <img height="200em" src="https://github-readme-stats.vercel.app/api?username=Jinkogule&show_icons=true&theme=gotham"/>     
     <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs?username=Jinkogule&layout=compact&langs_count=8&card_width=320&theme=gotham" />
-    <img src="https://github-profile-trophy.vercel.app?username=Jinkogule&theme=onedark&column=6&row=1&margin-w=8&margin-h=8&no-bg=true&no-frame=false&order=4" height="129" alt="trophy graph" />
 </div>
 
 ---
 
 <h2 align="left">Languages and Tools🛠️</h2>
 
-<h3 align="left">Languages:</h3>
+<h3 align="left">Current Focus:</h3>
+
+<table>
+  <tr>
+    <th>Java</th>
+    <th>Python</th>
+    <th>JavaScript / Node.js</th>
+  </tr>
+  <tr>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="Java logo" /></td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python logo" /></td>
+    <td align="center"><img src="https://cdn.simpleicons.org/nodedotjs/339933" height="40" alt="Node.js logo" /></td>
+  </tr>
+</table>
+
+<h3 align="left">Other Technologies:</h3>
+
+<h4 align="left">Other Languages:</h4>
 
 <table>
   <tr>
     <th>PHP</th>
-    <th>Python</th>
-    <th>Java</th>
     <th>Ruby</th>
     <th>Go</th>
     <th>C++</th>
-    <th>JavaScript</th>
     <th>TypeScript</th>
   </tr>
   <tr>
     <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="PHP logo" /></td>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python logo" /></td>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="Java logo" /></td>
     <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original.svg" height="40" alt="Ruby logo" /></td>
     <td align="center"><img src="https://cdn.simpleicons.org/go/00ADD8" height="40" alt="Go logo" /></td>
     <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="C++ logo" /></td>
-    <td align="center"><img src="https://cdn.simpleicons.org/javascript/F7DF1E" height="40" alt="javascript logo"/></td>
     <td align="center"><img src="https://cdn.simpleicons.org/typescript/3178C6" height="40" alt="typescript logo"/></td>
   </tr>
 </table>
 
-<h3 align="left">Frameworks:</h3>
+<h4 align="left">Frameworks:</h4>
 
 <table>
   <tr>
@@ -116,7 +128,7 @@
   </tr>
 </table>
 
-<h3 align="left">Databases, Web Languages and Hosting Platforms:</h3>
+<h4 align="left">Databases, Web Languages and Hosting Platforms:</h4>
 
 <table>
   <tr>
@@ -164,26 +176,24 @@
   </tr>
 </table>
 
-<h3 align="left">Development Tools:</h3>
+<h4 align="left">Development Tools:</h4>
 
 <table>
   <tr>
     <th>Git</th>
     <th>Postman</th>
-    <th>Node.js</th>
     <th>Docker</th>
     <th>Composer</th>
   </tr>
   <tr>
     <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git logo" /></td>
     <td align="center"><img src="https://cdn.simpleicons.org/postman/FF6C37" height="40" alt="Postman logo" /></td>
-    <td align="center"><img src="https://cdn.simpleicons.org/nodedotjs/339933" height="40" alt="Node.js logo" /></td>
     <td align="center"><img src="https://cdn.simpleicons.org/docker/2496ED" height="40" alt="Docker logo" /></td>
     <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/composer/composer-original.svg" height="40" alt="Composer logo" /></td>
   </tr>
 </table>
 
-<h3 align="left">Python Libraries:</h3>
+<h4 align="left">Python Libraries:</h4>
 
 <table>
   <tr>
