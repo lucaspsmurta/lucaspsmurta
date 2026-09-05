@@ -11,7 +11,7 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=jinkogule&style=for-the-badge&color=orange)
 </div>
 
-<h2 align="left">Hi, I'm Lucas Pimenta👋</h2>
+<h2 align="left">Hi, I'm Lucas Murta👋</h2>
 
 <table>
   <tr>
