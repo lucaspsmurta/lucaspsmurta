@@ -5,10 +5,10 @@
 <br>
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lucaspimenta21@gmail.com)
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-pimenta-0663671b1/)
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucaspimentamurta/)
 [![Lattes](https://img.shields.io/badge/Lattes-CNPq-1677B1?style=for-the-badge)](http://lattes.cnpq.br/8247049725464006)
 [![ORCID](https://img.shields.io/badge/ORCID-A6CE39?style=for-the-badge&logo=orcid&logoColor=white)](https://orcid.org/0009-0003-0799-532X)<br>
-![Profile Views](https://komarev.com/ghpvc/?username=jinkogule&style=for-the-badge&color=orange)
+![Profile Views](https://komarev.com/ghpvc/?username=lucaspsmurta&style=for-the-badge&color=orange)
 </div>
 
 <h2 align="left">Hi, I'm Lucas Murta👋</h2>
